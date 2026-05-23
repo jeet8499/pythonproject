@@ -32,11 +32,4 @@ The bot reads file signatures and dynamically channels them into structured zone
 | `.mp4`, `.mkv`, `.mov` | `Video/` |
 | `.zip`, `.rar`, `.tar.gz` | `Archives/` |
 
----
-
-## ⚙️ Setup and Usage
-
-1. **Clone the repository:**
-```bash
-   git clone [https://github.com/jeet8499/pythonproject.git](https://github.com/jeet8499/pythonproject.git)
-   cd pythonproject
+----
